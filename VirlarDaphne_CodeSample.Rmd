@@ -1,12 +1,12 @@
 ---
-title: "NCEAS Code Sample"
+title: "Code Sample"
 author: "Daphne Virlar"
 date: "5/21/2020"
 output: html_document
 ---
 
 ```{r, include=FALSE}
-# The following set of html code shows I am familiar with html.I frequently use html to change the layout of my markdown files to make my assignments and work products more aesthetically pleasing to view.
+# The following set of html code shows I am familiar with html. I frequently use html to change the layout of my markdown files to make my assignments and work products more aesthetically pleasing to view.
 ```
 
 <style type="text/css">
